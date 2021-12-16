@@ -1,0 +1,112 @@
+Constrained Instances: 'slot-2', 'shaft for slot-1'
+Constraint Name: Slot1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'shaft for slot-1'
+Constraint Name: Slot2
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'carraige 2nd try new rider-1', 'carraige 2nd try new rider-1', 'slider try 2 new rider-1', 'slider try 2 new rider-1'
+Constraint Name: Width11
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'worm_gear_motor_mount gripper-1', 'worm_gear_motor_mount gripper-1', 'support structure-1', 'support structure-1'
+Constraint Name: Width12
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'support structure-1', 'support structure-1', 'worm_gear_motor_mount gripper-1', 'worm_gear_motor_mount gripper-1'
+Constraint Name: Width13
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'slot-1', 'arm-1', 'arm-1'
+Constraint Name: Width14
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'slot-1', 'arm-1', 'arm-1'
+Constraint Name: Width15
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'arm-1'
+Constraint Name: Coincident36
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-2', 'gripper-2', 'arm-1', 'arm-1'
+Constraint Name: Width16
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-2', 'gripper-2', 'arm-1', 'arm-1'
+Constraint Name: Width17
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-2', 'arm-1'
+Constraint Name: Coincident37
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-1', 'gripper-1', 'Mirrorarm-2', 'Mirrorarm-2'
+Constraint Name: Width18
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-1', 'gripper-1', 'Mirrorarm-2', 'Mirrorarm-2'
+Constraint Name: Width19
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'gripper-1', 'Mirrorarm-2'
+Constraint Name: Coincident38
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-1'
+Constraint Name: Coincident39
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-1'
+Constraint Name: Coincident40
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-2'
+Constraint Name: Coincident42
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-2'
+Constraint Name: Coincident43
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-1'
+Constraint Name: Coincident49
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Mirrorarm-2', 'acyrlic gripper-2'
+Constraint Name: Coincident50
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'support structure-1', 'support structure-1', 'pivot-1', 'pivot-1'
+Constraint Name: Width20
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'support structure-1', 'support structure-1', 'new rider-1/rail new-1', 'new rider-1/rail new-1'
+Constraint Name: Width21
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'slot-1', 'arm bent-1', 'arm bent-1'
+Constraint Name: Width22
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'slot-1', 'slot-1', 'arm bent-1', 'arm bent-1'
+Constraint Name: Width23
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'arm bent-1', 'arm bent-1', 'acyrlic gripper-3'
+Constraint Name: Width24
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'rail new-1', 'new rider'
+Constraint Name: Coincident1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'rider new-1', 'rider new-1', 'rail new-1', 'rail new-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'worm_gear_motor body-1', 'worm_gear motor'
+Constraint Name: Coincident3
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------

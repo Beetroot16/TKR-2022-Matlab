@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="12/16/21||10:59:26" using="Simscape Multibody Link Version 7.4" from="SolidWorks 28.3.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="complete gripper new rider" uid="complete gripper new rider" version="1157">
+<AssemblyFile name="complete gripper new rider.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="acyrlic gripper-4" uid="acyrlic gripper-4" entityUid="acyrlic gripper*:*Default">
+<Transform>
+<Rotation>-0.96786501738943687 -0.25147029270620613 0 0.25147029270620647 -0.96786501738943709 1.6169940284476422e-16 -1.0461795434555368e-16 1.3988634035802382e-16 1</Rotation>
+<Translation>-0.3504576854143967 -0.14903185631728358 -0.10300000000000009</Translation>
+</Transform>
+</Instance>
+<Instance name="Mirrorarm bent-2" uid="Mirrorarm bent-2" entityUid="Mirrorarm bent*:*Default">
+<Transform>
+<Rotation>-0.56733411037032611 0 0.82348770920415715 0.82348770920415704 1.278273411525377e-16 0.56733411037032611 0 0.99999999999999989 0</Rotation>
+<Translation>-0.039326658896297495 0.038765122907958201 0.051000000000000073</Translation>
+</Transform>
+</Instance>
+<Instance name="acyrlic gripper-3" uid="acyrlic gripper-3" entityUid="acyrlic gripper*:*Default">
+<Transform>
+<Rotation>-0.96786501738943698 -0.25147029270620547 0 0.2514702927062058 -0.9678650173894372 -1.7326191609149583e-16 0 -1.5974439037908588e-16 1</Rotation>
+<Translation>-0.35045768541439665 -0.14903185631728352 -0.079949999999998467</Translation>
+</Transform>
+</Instance>
+<Instance name="3d gripper acyrlic-2" uid="3d gripper acyrlic-2" entityUid="3d gripper acyrlic*:*Default">
+<Transform>
+<Rotation>0.99777942226821048 -0.06660498853776925 0 -0.06660498853776925 -0.99777942226821048 1.7326191629368549e-16 0 -1.7077158417506594e-16 -0.99999999999999978</Rotation>
+<Translation>-0.3483484289127135 0.13138997211349912 -0.089474999999997015</Translation>
+</Transform>
+</Instance>
+<Instance name="linear guide holder-1" uid="linear guide holder-1" entityUid="linear guide holder*:*Default">
+<Transform>
+<Rotation>-1.04744440165294e-14 1 0 1 1.04744440165294e-14 6.9829626776862667e-15 6.9829626776862667e-15 0 -1</Rotation>
+<Translation>0.10249999999999951 0.0500430138569719 -0.051199999999999489</Translation>
+</Transform>
+</Instance>
+<Instance name="shaft for slot-1" uid="shaft for slot-1" entityUid="shaft for slot*:*Default">
+<Transform>
+<Rotation>0.66500274376135882 0 0.74684091397690877 0.74684091397690877 0 -0.66500274376135915 0 0.99999999999999989 0</Rotation>
+<Translation>-0.025720961819619876 0 0.027000000000000024</Translation>
+</Transform>
+</Instance>
+<Instance name="carraige 2nd try new rider-1" uid="carraige 2nd try new rider-1" entityUid="carraige 2nd try new rider*:*Default">
+<Transform>
+<Rotation>1.0000000000000002 0 0 0 0 -1.0000000000000002 0 1 0</Rotation>
+<Translation>0.016279038180380179 0 0.027000000000000017</Translation>
+</Transform>
+</Instance>
+<Instance name="support structure-1" uid="support structure-1" entityUid="support structure*:*Default">
+<Transform>
+<Rotation>1.04744440165294e-14 1 0 -1 1.04744440165294e-14 0 0 0 1</Rotation>
+<Translation>0.078650000000000039 7.8134959907209855e-16 -0.048699999999999855</Translation>
+</Transform>
+</Instance>
+<Instance name="slot-1" uid="slot-1" entityUid="slot*:*Default">
+<Transform>
+<Rotation>0.82348770920415615 0 0.56733411037032755 -0.56733411037032766 0 0.82348770920415604 0 -0.99999999999999989 0</Rotation>
+<Translation>-0.056346682207407336 -0.063469754184082808 0.051000000000000073</Translation>
+</Transform>
+</Instance>
+<Instance name="3d gripper acyrlic-1" uid="3d gripper acyrlic-1" entityUid="3d gripper acyrlic*:*Default">
+<Transform>
+<Rotation>0.99777942226821037 -0.06660498853776918 0 0.06660498853776918 0.99777942226821037 1.7326191629368858e-16 0 -1.707715841750669e-16 1</Rotation>
+<Translation>-0.34834842891271356 -0.13138997211349904 -0.089474999999997029</Translation>
+</Transform>
+</Instance>
+<Instance name="pivot-1" uid="pivot-1" grounded="true" entityUid="pivot*:*Default">
+<Transform>
+<Rotation>0 -1 0 -1 0 0 0 0 -1</Rotation>
+<Translation>-0.055000000000000021 0 -0.0069999999999999975</Translation>
+</Transform>
+</Instance>
+<Instance name="slot-2" uid="slot-2" entityUid="slot*:*Default">
+<Transform>
+<Rotation>0.82348770920415626 0 0.56733411037032799 0.56733411037032799 0 -0.82348770920415626 0 1 0</Rotation>
+<Translation>-0.056346682207407676 0.063469754184082072 0.050999999999999941</Translation>
+</Transform>
+</Instance>
+<Instance name="linkage slider-1" uid="linkage slider-1" entityUid="linkage slider*:*Default">
+<Transform>
+<Rotation>0.92154774500726266 0 0.3882650559502222 0.38826505595022226 -1.1444631105155685e-16 -0.92154774500726255 0 0.99999999999999989 -1.04100429766225e-16</Rotation>
+<Translation>0.02357903818038036 0 0.039000000000000083</Translation>
+</Transform>
+</Instance>
+<Instance name="new rider-1" uid="new rider-1" entityUid="new rider">
+<Transform>
+<Rotation>-1.1102230246251565e-16 0 1 1 0 1.1102230246251565e-16 0 1 0</Rotation>
+<Translation>-0.015000000000000027 0 0.0074999999999999893</Translation>
+</Transform>
+<Instance name="rail new-1" uid="rail new-1" entityUid="rail new*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="rider new-1" uid="rider new-1" entityUid="rider new*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0.0080000000000000279 0.041279038180380215</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="arm bent-1" uid="arm bent-1" entityUid="arm bent*:*Default">
+<Transform>
+<Rotation>-0.5673341103703271 0 -0.82348770920415626 -0.82348770920415648 -1.2782735408313311e-16 0.56733411037032755 0 0.99999999999999989 0</Rotation>
+<Translation>-0.039326658896297516 -0.038765122907958111 0.05100000000000008</Translation>
+</Transform>
+</Instance>
+<Instance name="acyrlic gripper-2" uid="acyrlic gripper-2" entityUid="acyrlic gripper*:*Default">
+<Transform>
+<Rotation>-0.9678650173894372 -0.25147029270620525 0 -0.25147029270620525 0.9678650173894372 1.6169940284476446e-16 -1.0461795434555357e-16 1.3988634035802409e-16 -1.0000000000000002</Rotation>
+<Translation>-0.35045768541439687 0.14903185631728405 -0.099000000000000143</Translation>
+</Transform>
+</Instance>
+<Instance name="slider try 2 new rider-1" uid="slider try 2 new rider-1" entityUid="slider try 2 new rider*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.012279038180380172 0 0.031999999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="worm_gear_motor_mount gripper-1" uid="worm_gear_motor_mount gripper-1" entityUid="worm_gear_motor_mount gripper*:*Default">
+<Transform>
+<Rotation>0 1 5.7950796842168585e-16 -1 0 -3.8134663771949245e-16 -3.8134663771949255e-16 -5.7950796842168575e-16 1</Rotation>
+<Translation>0.12624999999999997 0 -0.04234999999999977</Translation>
+</Transform>
+</Instance>
+<Instance name="worm_gear motor-1" uid="worm_gear motor-1" entityUid="worm_gear motor">
+<Transform>
+<Rotation>-1.2246467991474447e-16 1.0000000000000002 0 1.0000000000000002 1.2246467991473542e-16 4.804273030705891e-16 4.8042730307058851e-16 0 -1</Rotation>
+<Translation>0.084999999999999992 -0.029000000000000043 -0.01334999999999977</Translation>
+</Transform>
+<Instance name="worm_gear_motor body-1" uid="worm_gear_motor body-1" grounded="true" entityUid="worm_gear_motor body*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="worm_gear_motor shaft-1" uid="worm_gear_motor shaft-1" entityUid="worm_gear_motor shaft*:*Default">
+<Transform>
+<Rotation>0.056618993399039821 0.9983958581577147 3.64307475661412e-16 0.9983958581577147 -0.056618993399039821 -1.0292299453941528e-16 0 3.6955047114468275e-16 -1</Rotation>
+<Translation>0.028999999999999918 0.023500000000000271 0.017000000000000022</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="motor linkage-1" uid="motor linkage-1" entityUid="motor linkage*:*Default">
+<Transform>
+<Rotation>0.056618993399036643 0.99839585815771492 0 -0.99839585815771492 0.056618993399036643 -1.1611982257034964e-16 -1.1571600115595653e-16 0 0.99999999999999978</Rotation>
+<Translation>0.10850000000000005 7.1744931759129169e-16 0.03065000000000025</Translation>
+</Transform>
+</Instance>
+<Instance name="acyrlic gripper-1" uid="acyrlic gripper-1" entityUid="acyrlic gripper*:*Default">
+<Transform>
+<Rotation>-0.9678650173894372 -0.25147029270620469 0 -0.25147029270620469 0.9678650173894372 -1.7326191609149497e-16 0 -1.5974439037908529e-16 -0.99999999999999989</Rotation>
+<Translation>-0.35045768541439659 0.14903185631728411 -0.07594999999999838</Translation>
+</Transform>
+</Instance>
+<Instance name="motor flange-1" uid="motor flange-1" entityUid="motor flange*:*Default">
+<Transform>
+<Rotation>-0.99839585815771481 0 -0.056618993399039946 -0.056618993399039946 -1.1655128693745955e-16 0.99839585815771481 0 1 1.1614815868698496e-16</Rotation>
+<Translation>0.1085 7.1397987063933848e-16 0.01865000000000025</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>0.047000000000000007 -0.009999999999999995 0.0049999999999999992</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>slot-1</Uid>
+</InstancePath>
+<Position>0 -0.015999999999999986 0.01999999999999999</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>-0.046999999999999993 -0.009999999999999995 0.0050000000000000096</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>slot-2</Uid>
+</InstancePath>
+<Position>0 -0.016 0.020000000000000004</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<UnknownConstraint name="Slot1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slot-2</Uid>
+</InstancePath>
+<Position>0.0095668280209799048 0.0010000000000000009 0.0034820406359804545</Position>
+<Axis>0.93969262078591087 0 0.34202014332566283</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shaft for slot-1</Uid>
+</InstancePath>
+<Position>0 0.059999999999999984 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<UnknownConstraint name="Slot2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slot-1</Uid>
+</InstancePath>
+<Position>0.0095668280209798978 0.0010000000000000009 0.0034820406359804545</Position>
+<Axis>0.93969262078591065 0 0.34202014332566277</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shaft for slot-1</Uid>
+</InstancePath>
+<Position>0 0.059999999999999984 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999975 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slider try 2 new rider-1</Uid>
+</InstancePath>
+<Position>0.0099999999999999985 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="LimitDistance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>-0.0090000000000000045 0.021999999999999999 0.0080000000000000036</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slider try 2 new rider-1</Uid>
+</InstancePath>
+<Position>-0.0049999999999999992 -0.0077499999999999999 0.0049999999999999975</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>slider try 2 new rider-1</Uid>
+</InstancePath>
+<Position>0.011300000000000001 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linkage slider-1</Uid>
+</InstancePath>
+<Position>0 0.0039999999999999966 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Distance name="Distance3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>0 -0.014999999999999999 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0 0 0.022000000000000002</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slider try 2 new rider-1</Uid>
+</InstancePath>
+<Position>0.0099999999999999985 0 0.0049999999999999975</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linkage slider-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>0.065000000000000002 0.014999999999999999 -0.039999999999999994</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slot-1</Uid>
+</InstancePath>
+<Position>-0.016000000000000007 0.016 0.039999999999999987</Position>
+<Axis>0 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>-0.065000000000000002 0.014999999999999999 -0.040000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slot-2</Uid>
+</InstancePath>
+<Position>-0.016000000000000007 -0.016 0.040000000000000022</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0.048000000000000029 0.012500000000000011 -0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear_motor_mount gripper-1</Uid>
+</InstancePath>
+<Position>-0.018999999999999975 -0.028749999999999998 0.0049999999999999975</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0.0099999999999999985 0.068500000000000047 -0.017000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear_motor_mount gripper-1</Uid>
+</InstancePath>
+<Position>0.019 0.027249999999999996 0.0049999999999999975</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident25">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0.009999999999999995 0.012500000000000011 0.023999999999999997</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear_motor_mount gripper-1</Uid>
+</InstancePath>
+<Position>0 0 0.0049999999999999975</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident26">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear_motor_mount gripper-1</Uid>
+</InstancePath>
+<Position>-0.028999999999999998 -0.041250000000000009 0.0049999999999999975</Position>
+<Axis>2.392722035830079e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>support structure-1</Uid>
+</InstancePath>
+<Position>0 0.0063499999999999945 0.012700000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor shaft-1</Uid>
+</InstancePath>
+<Position>0 0 0.064000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000002 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999975 -0.015000000000000001</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor linkage-1</Uid>
+</InstancePath>
+<Position>0.015000000000000003 0 0.0019999999999999983</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999975 0.015000000000000005</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor linkage-1</Uid>
+</InstancePath>
+<Position>-0.015000000000000003 0 0.0019999999999999983</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>0 0.010000000000000002 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor linkage-1</Uid>
+</InstancePath>
+<Position>-0.035000000000000003 0 -0.0019999999999999983</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor shaft-1</Uid>
+</InstancePath>
+<Position>0 0 0.049000000000000002</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>linkage slider-1</Uid>
+</InstancePath>
+<Position>0.090000000000000011 0.0039999999999999966 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>motor linkage-1</Uid>
+</InstancePath>
+<Position>-0.035000000000000003 0 0.0019999999999999983</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident31">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>0.065000000000000002 0.014999999999999999 -0.030000000000000006</Position>
+<Axis>1.1564823173196494e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>support structure-1</Uid>
+</InstancePath>
+<Position>0 0 0.0717</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>-0.042000000000000051 0.011000000000000003 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>shaft for slot-1</Uid>
+</InstancePath>
+<Position>0 0.059999999999999984 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident35">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shaft for slot-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear motor-1</Uid>
+<Uid>worm_gear_motor shaft-1</Uid>
+</InstancePath>
+<Position>0.0061691687684286289 -0.0034999999999999988 0.064000011999999995</Position>
+<Axis>3.1918911957973251e-16 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>motor flange-1</Uid>
+</InstancePath>
+<Position>-0.0035699999999999898 0.010000000000000002 -0.003571778268593952</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident46">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-1</Uid>
+</InstancePath>
+<Position>0 0 0.0040000000000000036</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>3d gripper acyrlic-1</Uid>
+</InstancePath>
+<Position>0 0 0.0095250000000000057</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>3d gripper acyrlic-1</Uid>
+</InstancePath>
+<Position>0 0.26000000000000006 -0.025000000000000008</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>acyrlic gripper-1</Uid>
+</InstancePath>
+<Position>0.020000000000000018 -0.016500000000000015 0.0039999999999999897</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident51">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>support structure-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linear guide holder-1</Uid>
+</InstancePath>
+<Position>-0.098500000000000004 0.017499999999999974 -0.0025000000000000022</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident52">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>support structure-1</Uid>
+</InstancePath>
+<Position>0 0.0063499999999999945 0.012700000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>linear guide holder-1</Uid>
+</InstancePath>
+<Position>0 -0.017500000000000002 0.014999999999999993</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>new rider-1</Uid>
+<Uid>rider new-1</Uid>
+</InstancePath>
+<Position>-0.016999999999999994 0.0115 0.019500000000000003</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>0.02300000000000001 0 0.013000000000000006</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>new rider-1</Uid>
+<Uid>rider new-1</Uid>
+</InstancePath>
+<Position>-0.012999999999999998 -0.0115 0.012999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>carraige 2nd try new rider-1</Uid>
+</InstancePath>
+<Position>0.02300000000000001 0 -0.013000000000000006</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>new rider-1</Uid>
+<Uid>rider new-1</Uid>
+</InstancePath>
+<Position>0.013000000000000001 -0.0115 0.012999999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>new rider-1</Uid>
+<Uid>rail new-1</Uid>
+</InstancePath>
+<Position>-4.1162987986629184e-16 0 -0.029999999999999999</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>0 -0.009999999999999995 0.0050000000000000044</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident54">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>pivot-1</Uid>
+</InstancePath>
+<Position>-0.0077500000000000017 0.014999999999999999 -0.0069999999999999984</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>new rider-1</Uid>
+<Uid>rail new-1</Uid>
+</InstancePath>
+<Position>-0.0074999999999999997 -0.0075000000000000006 0.10000000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident55">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>slot-1</Uid>
+</InstancePath>
+<Position>0 0 0.029999999999999992</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>arm bent-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.0000000000000002 0 1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident56">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-3</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>arm bent-1</Uid>
+</InstancePath>
+<Position>0.20640716524596112 -0.1309499999999999 -0.010245695075560909</Position>
+<Axis>-2.8742016979896774e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident57">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-4</Uid>
+</InstancePath>
+<Position>0 0 0.0040000000000000036</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>arm bent-1</Uid>
+</InstancePath>
+<Position>0.20640716524596112 -0.14999999999999991 -0.010245695075560911</Position>
+<Axis>2.8742016979896774e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-3</Uid>
+</InstancePath>
+<Position>-0.024999999999999967 0 0.0040000000000000036</Position>
+<Axis>-1 3.8857805861880479e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>arm bent-1</Uid>
+</InstancePath>
+<Position>0.27866463296490296 0 0.2161293027807592</Position>
+<Axis>0.3420201433256651 -1.3274131389194088e-16 0.93969262078590976</Axis>
+</ConstraintGeometry>
+</Distance>
+<Concentric name="Concentric21">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>acyrlic gripper-4</Uid>
+</InstancePath>
+<Position>0.020000000000000018 -0.016499999999999987 0.0039999999999999897</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>3d gripper acyrlic-2</Uid>
+</InstancePath>
+<Position>0 0.26000000000000001 -0.024999999999999994</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident59">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-3</Uid>
+</InstancePath>
+<Position>0 0.012500000000000011 0.0040000000000000036</Position>
+<Axis>-3.8857805861880479e-16 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>acyrlic gripper-4</Uid>
+</InstancePath>
+<Position>0 0.012500000000000039 0.0040000000000000036</Position>
+<Axis>-3.8857805861880479e-16 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="new rider" uid="new rider" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="new rider.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<UnknownConstraint name="Coincident1">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>rail new-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>new rider</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>rail new-1</Uid>
+</InstancePath>
+<Position>-0.0074999999999999997 0.0074999999999999989 0.10000000000000001</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>rider new-1</Uid>
+</InstancePath>
+<Position>-0.0074999999999999997 -0.00050000000000000044 -0.028000000000000001</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</Assembly>
+<Assembly name="worm_gear motor" uid="worm_gear motor" version="164">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="worm_gear motor.SLDASM" type="SolidWorks Assembly"/>
+<Constraints>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0.028999999999999995 0.023500000000000004 0.016999999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>worm_gear_motor shaft-1</Uid>
+</InstancePath>
+<Position>0 0 0.064000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0.028999999999999995 0.023500000000000004 0.016999999999999998</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>worm_gear_motor shaft-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<UnknownConstraint name="Coincident3">
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>worm_gear_motor body-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>worm_gear motor</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</UnknownConstraint>
+</Constraints>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="3d gripper acyrlic" uid="3d gripper acyrlic*:*Default" version="218">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="3d gripper acyrlic.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.044512090631421773</Mass>
+<CenterOfMass>0.00030207875362647769 0.2500349165915759 -1.3629890757829424e-08</CenterOfMass>
+<Inertia>9.3938325366784548e-06 8.2776158007532739e-05 7.5663638571994501e-05 3.2508576124982137e-13 2.3185777519840055e-11 -8.2578981013466869e-08</Inertia>
+</MassProperties>
+<GeometryFile name="3d gripper acyrlic_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mirrorarm bent" uid="Mirrorarm bent*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mirrorarm bent.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.078718800000000366</Mass>
+<CenterOfMass>0.15564724217944445 -0.098988762211187339 -0.042967694954210565</CenterOfMass>
+<Inertia>0.00061108578049167003 0.00082145819797468944 0.00074128878385739294 -0.00014032161467405409 0.00032731477838311257 0.00027612207297211106</Inertia>
+</MassProperties>
+<GeometryFile name="Mirrorarm bent_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="acyrlic gripper" uid="acyrlic gripper*:*Default" version="253">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="acyrlic gripper.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010741052585062224</Mass>
+<CenterOfMass>0.025906372759972582 0.0020106301684487842 0.002</CenterOfMass>
+<Inertia>6.0088058520818632e-07 1.2809464005684299e-05 1.3381701783998987e-05 0 0 -1.0450252739055013e-06</Inertia>
+</MassProperties>
+<GeometryFile name="acyrlic gripper_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="0.30000000000000004"/>
+<Diffuse r="1" g="1" b="1" a="0.30000000000000004"/>
+<Specular r="0.69999998807907104" g="0.69999998807907104" b="0.69999998807907104" a="0.30000000000000004"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="0.30000000000000004"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="arm bent" uid="arm bent*:*Default" version="172">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="arm bent.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.078718800000000241</Mass>
+<CenterOfMass>0.15564724217944448 -0.098988762211187284 0.042967694954210607</CenterOfMass>
+<Inertia>0.00061108578049167176 0.00082145819797468987 0.00074128878385739479 0.00014032161467405433 -0.00032731477838311289 0.00027612207297211089</Inertia>
+</MassProperties>
+<GeometryFile name="arm bent_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="carraige 2nd try new rider" uid="carraige 2nd try new rider*:*Default" version="830">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="carraige 2nd try new rider.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030756683227959082</Mass>
+<CenterOfMass>0.0015042207391682734 0.004523302393248739 -5.6237066167911439e-09</CenterOfMass>
+<Inertia>5.442763174271952e-06 2.8615160894621634e-05 2.4249371354486229e-05 5.2304954217428909e-12 3.7918171058775733e-12 1.5814587012761372e-07</Inertia>
+</MassProperties>
+<GeometryFile name="carraige 2nd try new rider_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linear guide holder" uid="linear guide holder*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linear guide holder.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0340938</Mass>
+<CenterOfMass>-0.036367866004962772 0 0</CenterOfMass>
+<Inertia>4.2809679750000023e-06 3.4700565767959042e-05 3.7106057492959036e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="linear guide holder_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.79607843137254897" g="0.82352941176470584" b="0.93725490196078431" a="1"/>
+<Diffuse r="0.79607843137254897" g="0.82352941176470584" b="0.93725490196078431" a="1"/>
+<Specular r="0.39803921568627448" g="0.41176470588235292" b="0.46862745098039216" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="linkage slider" uid="linkage slider*:*Default" version="115">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="linkage slider.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.012614017618445553</Mass>
+<CenterOfMass>0.045000000000000005 0.002 0</CenterOfMass>
+<Inertia>1.6750831756609859e-07 1.023833293216859e-05 1.0104461994918347e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="linkage slider_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="motor flange" uid="motor flange*:*Default" version="150">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="motor flange.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0071333615530277351</Mass>
+<CenterOfMass>0 0.0066373664734955592 -4.3372986228166967e-05</CenterOfMass>
+<Inertia>6.8689734060168353e-07 1.3223621287607435e-06 7.1610550544628289e-07 -5.0659331509647768e-10 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="motor flange_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="motor linkage" uid="motor linkage*:*Default" version="117">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="motor linkage.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0047690265241302704</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.1263544153628801e-07 2.8769756652421543e-06 2.976893702714095e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="motor linkage_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pivot" uid="pivot*:*Default" version="272">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pivot.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.083441754004125776</Mass>
+<CenterOfMass>0 0.0068156020011706283 -0.014155866213767857</CenterOfMass>
+<Inertia>4.1773889830300828e-05 9.6449783677981881e-05 9.9954220563025471e-05 -7.032549215707571e-06 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pivot_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rail new" uid="rail new*:*Default" version="126">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="rail new.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.043115044407846116</Mass>
+<CenterOfMass>0 -9.8368217883000586e-05 0</CenterOfMass>
+<Inertia>0.00014231928087456595 0.0001423486321372809 1.6453310392584166e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="rail new_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rider new" uid="rider new*:*Default" version="117">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="rider new.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.029919893903478965</Mass>
+<CenterOfMass>0 0.0011103064104160236 0</CenterOfMass>
+<Inertia>8.0852781299724964e-06 1.0306327010516177e-05 4.5158218799724975e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="rider new_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="shaft for slot" uid="shaft for slot*:*Default" version="107">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="shaft for slot.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0045804420889339198</Mass>
+<CenterOfMass>0 0.029999999999999999 0</CenterOfMass>
+<Inertia>1.3844386213802766e-06 2.0611989400202652e-08 1.3844386213802766e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="shaft for slot_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="slider try 2 new rider" uid="slider try 2 new rider*:*Default" version="557">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="slider try 2 new rider.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0015602116849938749</Mass>
+<CenterOfMass>0.0037034934241621264 0 0.0060280502075663418</CenterOfMass>
+<Inertia>8.3769763575240286e-08 1.1374672741041266e-07 1.0208692574802434e-07 0 2.823392875058072e-08 0</Inertia>
+</MassProperties>
+<GeometryFile name="slider try 2 new rider_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="slot" uid="slot*:*Default" version="312">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="slot.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.047838574183840583</Mass>
+<CenterOfMass>-0.002580677186415305 0.0033007996408958504 0.036859742406271094</CenterOfMass>
+<Inertia>2.8044485129410705e-05 2.9234095044671232e-05 9.7361889809669664e-06 -3.6915880351115469e-06 3.731096469874849e-06 6.4175068344055579e-07</Inertia>
+</MassProperties>
+<GeometryFile name="slot_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="support structure" uid="support structure*:*Default" version="209">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="support structure.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.14803868396686479</Mass>
+<CenterOfMass>0 -0.035299318098858973 0.027671953764839489</CenterOfMass>
+<Inertia>0.00080065294037758028 0.00035126750330622644 0.00097402399132395236 0.00023072351926396452 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="support structure_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Diffuse r="0.89803921568627454" g="0.91764705882352937" b="0.92941176470588238" a="1"/>
+<Specular r="0.44901960784313727" g="0.45882352941176469" b="0.46470588235294119" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="worm_gear_motor body" uid="worm_gear_motor body*:*Default" version="704">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="worm_gear_motor body.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.31092391761127941</Mass>
+<CenterOfMass>0.028999999999999984 0.064437196906913338 5.5572307616252081e-05</CenterOfMass>
+<Inertia>0.00056929246109101021 0.00011989829067652516 0.00059199812469020114 7.0734398383722672e-07 0 4.1273427468848667e-08</Inertia>
+</MassProperties>
+<GeometryFile name="worm_gear_motor body_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="worm_gear_motor shaft" uid="worm_gear_motor shaft*:*Default" version="142">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="worm_gear_motor shaft.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0049044383028246175</Mass>
+<CenterOfMass>0 8.9884932109641867e-05 0.031373500771647557</CenterOfMass>
+<Inertia>1.6632733694449626e-06 1.6648559165961624e-06 6.0363053401878874e-08 -1.0973501639559098e-08 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="worm_gear_motor shaft_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="worm_gear_motor_mount gripper" uid="worm_gear_motor_mount gripper*:*Default" version="154">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="worm_gear_motor_mount gripper.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.042353269015930388</Mass>
+<CenterOfMass>0 0.0022332593567233922 1.2105509987269823e-06</CenterOfMass>
+<Inertia>2.5261498248621368e-05 1.3233573387663767e-05 3.7781674481467568e-05 1.5295407027870324e-10 0 4.6197066563962902e-08</Inertia>
+</MassProperties>
+<GeometryFile name="worm_gear_motor_mount gripper_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
